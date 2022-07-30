@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @465464
+- 👋 Hi, I’m @Darshan Valani
 - 👀 I’m interested in machine learing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python..
+- 💞️ I’m looking to collaborate on data scientist..
 - 📫 How to reach me ...
 
 <!---
